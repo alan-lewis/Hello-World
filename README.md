@@ -1,2 +1,2 @@
 # Hello-World
-first gtihub repo
+first github repo
